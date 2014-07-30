@@ -1,2 +1,2 @@
 # Dan Miller
-- Intermediate Course
+- Is Awesome
