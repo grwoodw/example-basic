@@ -8,3 +8,5 @@
 -Super Secret Spy (Don't tell anyone)
 ##Call Name:
 -Ground Squirrel
+##Favorite food
+-Peanut Butter Popcorn
